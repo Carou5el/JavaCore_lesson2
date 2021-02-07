@@ -1,5 +1,12 @@
 package kulkov.JavaCore.lesson2;
 
+/*
+    Kulkov Mikhail.
+
+    Lesson 2.
+
+ */
+
 import java.util.Random;
 
 public class Main {
